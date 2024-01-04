@@ -1,4 +1,4 @@
-# Python projects
+# Python project
 # 001 - LMS  (v1)
 # My first python project deals with an application of Library Management System.
 """
